@@ -1,0 +1,165 @@
+{
+    "films": [
+        {
+            "id": 0,
+            "title": "Jumanji",
+            "description": "Robin Williams stars as Alan Parrish, who, after 25 years, is finally freed from the spell of an ancient magical board game named JUMANJI. The two children who freed him, however, have unleashed a group of wild and exotic creatures from the game, forcing the long-lost Alan to save his hometown from destruction",
+            "year": "1995",
+            "poster": "https://play-lh.googleusercontent.com/mXGFf7DX9D3FZ1f0WP8pJGtHFNh-FrFOJb2aNZUyq6s6nnyeXshO4HHJnZkCTyg_bJW7-Q=w240-h480"
+        },
+        {
+            "id": 1,
+            "title": "Jumanji: Welcome to the Jungle",
+            "description": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars (Dwayne Johnson, Jack Black, Kevin Hart, and Karen Gillan). They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+            "year": "2017",
+            "poster": "https://play-lh.googleusercontent.com/D6asPflpmf_aloIFEQR9cYxluSiUDMZY3jT1Np1k7NQqYMt8sUhtGm3vqrmyh2ABXQE=w240-h480"
+        },
+        {
+            "id": 2,
+            "title": "Jumanji: The Next Level",
+            "description": "In Jumanji:The Next Level, the gang is back (Dwayne Johnson, Jack Black, Kevin Hart and Karen Gillan) but the game has changed. As they return to Jumanji to rescue one of their own, they discover that nothing is as they expect. With more action and surprises, the players will have to brave parts unknown and unexplored, from the arid deserts to the snowy mountains, in order to escape.",
+            "year": "2019",
+            "poster": "https://play-lh.googleusercontent.com/2i5WTEANxIcSeXhUxRfBUCZe7CG9uIrj6DK5Sy-cCNVFJ05yDeeHWGTFOAdGEEvOtp1l9ey15qATKvY96i0=w240-h480"
+        },
+        {
+            "id": 3,
+            "title": "The Hunger Games",
+            "description": "Based on the best-selling books by Suzanne Collins, THE HUNGER GAMES is the first film in the franchise. Every year in the ruins of what was once North America, the Capitol of the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games. Sixteen year old Katniss Everdeen volunteers in her younger sister’s place and must rely upon her sharp instincts when she’s pitted against highly trained Tributes who have prepared their entire lives. If she’s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love.",
+            "year": "2012",
+            "poster": "https://play-lh.googleusercontent.com/pVc7hocZ5JIgYIyw2kDvE6aFVvafpefmv1hfK-DsidZx5v6XmNkduMx_TQhAtsRJ4jCPLOUIl8evC4WyaOA=w240-h480"
+        },
+        {
+            "id": 4,
+            "title": "Jungle Cruise",
+            "description": "Join fan favorites Dwayne Johnson and Emily Blunt for the adventure of a lifetime on Disney’s Jungle Cruise, a rollicking thrill-ride down the Amazon with wisecracking skipper Frank Wolff and intrepid researcher Dr. Lily Houghton. Lily travels from London, England to the Amazon jungle and enlists Frank’s questionable services to guide her downriver on La Quila-his ramshackle-but-charming boat. Lily is determined to uncover an ancient tree with unparalleled healing abilities-possessing the power to change the future of medicine. Thrust on this epic quest together, the unlikely duo encounters innumerable dangers and supernatural forces, all lurking in the deceptive beauty of the lush rainforest. But as the secrets of the lost tree unfold, the stakes reach even higher for Lily and Frank and their fate-and mankind’s-hangs in the balance.",
+            "year": "2021",
+            "poster": "https://play-lh.googleusercontent.com/SVTBnq_q_Sxn2gYb5LAgreCmKwLPSX3VjCsLWNBtIKKwVWz_s-vw1UGaJTlRq4xyTXwXM5SlyW78P6FwYLy8=w240-h480"
+        },
+        {
+            "id": 5,
+            "title": "Ocean’s 8",
+            "description": "Five years, eight months, 12 days...and counting. That’s how long Debbie Ocean (Sandra Bullock) has been devising the biggest heist of her life. She knows what it’s going to take—a team of the best in their field, starting with her partner-in-crime Lou Miller (Cate Blanchett). Together, they recruit a crew of specialists: jeweler Amita (Mindy Kaling); street con Constance (Awkwafina); expert fence Tammy (Sarah Paulson); hacker Nine Ball (Rihanna); and fashion designer Rose (Helena Bonham Carter). The target is a cool $150 million dollars in diamonds—diamonds that will be around the neck of world-famous actress Daphne Kluger (Anne Hathaway), who will be centerstage at the event of the year, the Met Gala. The plan is rock solid, but everything will need to be flawless if the team is going to get in and get away with the ice. All in plain sight.",
+            "year": "2018",
+            "poster": "https://play-lh.googleusercontent.com/YPalv9zRSI4JeedfW-YjDBeFW8R8YJPbVJKahoxZlDkD30G-jCB_y5OLEq67un0MeG8=w240-h480"
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter and the Half-Blood Prince",
+            "description": "Harry Potter returns to Hogwarts for his sixth year – to face a growing danger that may be more than a match for his strengthening powers as a wizard. While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers lie within Hogwarts. Dumbledore, racing to prepare Harry for a final battle that he knows is fast approaching, brings him on a perilous mission to find the key to unlock Voldemort’s defenses. Meanwhile, the students are under attack from a different adversary as teenage hormones rage: Harry’s friendship with Ginny Weasley grows into something deeper; Lavender Brown lavishes her affections on Ron; Hermione simmers with jealousy and a box of love potion-laced chocolates ends up in the wrong hands.",
+            "year": "2009",
+            "poster": "https://play-lh.googleusercontent.com/x5A-ImCn1EW1GQD4ktZtCnLfRW7XS551j_TbC3XqS9A-x-P6IXiAf2AsH8h05El7cpZpvOSEWad9HHudqg=w240-h480"
+        },
+        {
+            "id": 7,
+            "title": "The Mummy",
+            "description": "As punishment for killing Pharaoh Seti and sleeping with his mistress, Egyptian priest Imhotep (Arnold Vosloo) is cursed and mummified alive. But when treasure hunters Brendan Fraser, Oscar-winner Rachel Weisz, and Jonathan Hannah inadvertently stumble upon his tomb in 1923, the mummy is resurrected! Not since Indiana Jones has tomb-raiding adventure been so scary, thrilling, and fun! Join adventurer Rick O’Connell and Egyptologist Evelyn Carnahan as they discover the lost city of Hamunaptra and struggle to save the world from unspeakable evil!",
+            "year": "1999",
+            "poster": "https://play-lh.googleusercontent.com/aGo3kK-KQ7MKl72X2LljykYhgnX4ebZEMukvumFbQNY-MJXbS7E0Hv4kLcz5V0pn4dg=w240-h480"
+        },
+        {
+            "id": 8,
+            "title": "Rise of the Guardians",
+            "description": "A fun-filled magical story about the legendary guardians– Jack Frost (Chris Pine), the Easter Bunny (Hugh Jackman), Santa Claus, and the Tooth Fairy- together for the first time! When the evil boogeyman Pitch (Jude Law) threatens to take over the world, it’s up to our beloved heroes to protect the hopes and dreams of all children. It’s a dazzling and heartwarming family film.",
+            "year": "2012",
+            "poster": "https://play-lh.googleusercontent.com/ycajpEuC4_QM_DAnwAnsUkClnd6QOlYKczixqt6rKjyczv0NgfFfugVhup3V11zuGbUI=w240-h480"
+        },
+        {
+            "id": 9,
+            "title": "Onward",
+            "description": "Two elf brothers embark on an extraordinary quest in Disney and Pixar’s Onward!",
+            "year": "2020",
+            "poster": "https://play-lh.googleusercontent.com/proxy/m0sK2DK-1Y9P_jZhVfXAN20uYbMiA28yWMuIhf-1CMDUnUDKwbRNzFKVeaas9v8ZnJGCsOwpkKmP4gm1S24rfxBeRC1ymr9cDAC2K97oHU43pKWrK_dGWQZ0HE6uesVBFmJIFLAIdEFk79xoxtUPmv-TUveZtigTqCEgoA=w240-h480"
+        },
+        {
+            "id": 10,
+            "title": "Star Wars: The Force Awakens",
+            "description": "Visionary director J.J. Abrams brings to life the motion picture event of a generation. As Kylo Ren and the sinister First Order rise from the ashes of the Empire, Luke Skywalker is missing when the galaxy needs him most. It’s up to Rey, a desert scavenger, and Finn, a defecting stormtrooper, to join forces with Han Solo and Chewbacca in a desperate search for the one hope of restoring peace to the galaxy.",
+            "year": "2015",
+            "poster": "https://play-lh.googleusercontent.com/HxsgP31VKPcoKWulBENzu8AkRLR1oM54dJrYndWgpoIRL7AdppsMF4KH5fAfBGrtvFU=w240-h480"
+        },
+        {
+            "id": 11,
+            "title": "Star Wars: The Last Jedi",
+            "description": "Rey develops her newly-discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepare to do battle with the First Order.",
+            "year": "2017",
+            "poster": "https://play-lh.googleusercontent.com/proxy/obZNd1nerVqQ3fey1Yx8mDpKoIuoawXJsaLtCYOEvdR458XK3Af4-_9Y3v-t7zusv137Ah9X7IthHszNTR7_X_kjj0YxG_K2JwoOPbqSzhzFfV83XD0nFMzAwc-xVDJo650YEvJCTohOI5jVw-v3KOUBM_PuVaZNqt5EOQ=w240-h480"
+        },
+        {
+            "id": 12,
+            "title": "Star Wars: The Rise of Skywalker",
+            "description": "Finn and Poe lead the Resistance to put a stop to the First Order’s plans to form a new Empire, while Rey anticipates her inevitable confrontation with Kylo Ren.",
+            "year": "2019",
+            "poster": "https://play-lh.googleusercontent.com/proxy/8kbyUwheYgSjv9aNvv6GZE4Dyw-P9ENXr5XNdlgdvEkPhWN8szkx3uenII401oAdwBtAwJ6KS5XixQwJvfrkRB8B3GO0rOGm0YTixgXgw_43yfa8eB3gRZYB0jDZRYTl1TTHCveqSJEfs97Bg7-m62292N4XE1R2YsbpdQ=w240-h480"
+        },
+        {
+            "id": 13,
+            "title": "Rogue One: A Star Wars Story",
+            "description": "Unlikely heroes band together to steal the plans to the Death Star.",
+            "year": "2016",
+            "poster": "https://play-lh.googleusercontent.com/proxy/jfgYDXy8i85f0uTzXp_FNKBGBiypsAt3Sgdh--ahSXL3APpWD3lxrwGtYwinvqIN8RN87hl-wm9H99A_-9wwuWvsps0oywXV2Vex8TWIilI1m9e8YbEWGEptUh_iGePzEKKONSCWiizTjVDlYqJeSA5kR7ULsGOgQAkk2Q=w240-h480"
+        },
+        {
+            "id": 14,
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "description": "In the first part of J.R.R. Tolkien’s epic masterpiece, The Lord of the Rings, a shy young hobbit named Frodo Baggins inherits a simple gold ring. He knows the ring has power, but not that he alone holds the secret to the survival – or enslavement – of the entire world. Now Frodo, accompanied by a wizard, an elf, a dwarf, two men and three loyal hobbit friends, must become the greatest hero the world has ever known to save the land and the people he loves.",
+            "year": "2002",
+            "poster": "https://play-lh.googleusercontent.com/OkbZGHFUkGrqnPycygoqxbAJBE1WzR28vQbifQ-c5aNAapFl8F-eGeipwkweFVYYSMQQTcMvcDte_7HpwA=w240-h480"
+        },
+        {
+            "id": 15,
+            "title": "Captain Marvel",
+            "description": "Marvel Studios’ Captain Marvel takes you on a spectacular adventure from the 1990s, tracing the path of Carol Danvers (Brie Larson) as she becomes one of the most powerful heroes in the universe. When a galactic war reaches Earth, she meets young agent Nick Fury (Samuel L. Jackson) at the center of a maelstrom, leading to her ultimate destiny as an Avenger!",
+            "year": "2019",
+            "poster": "https://play-lh.googleusercontent.com/MNuc8SF0HDLNyj3CrLEIrRARm3HTwj7mN7pWhB_LvhxpELLayZdmA6stzkcycF6bXE_EzYb2Jgdasg-0yg=w240-h480"
+        },
+        {
+            "id": 16,
+            "title": "Wonder Woman",
+            "description": "Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when an American pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside men in a war to end all wars, Diana will discover her full powers and her true destiny.",
+            "year": "2017",
+            "poster": "https://play-lh.googleusercontent.com/Uqks7qgYX1BBWaqDk3ue2Dyq9Fe50vnZ3VN7VAwrop91KaOVXtRRhi3Vtg1BJvxOWs-8tBjIxtdoWNJ1wP8=w240-h480"
+        },
+        {
+            "id": 17,
+            "title": "Collateral Beauty",
+            "description": "When a successful New York ad executive suffers a personal tragedy and retreats from life, his friends devise a drastic plan to reach him before he loses everything. Pushing him to the very edge, they force him to confront the truth in surprising and profoundly human ways. From Oscar-winning director David Frankel, this thought-provoking drama explores how even the deepest tragedy can reveal moments of beauty, and how the constants of love, time and loss interlock in a life fully lived.",
+            "year": "2016",
+            "poster": "https://play-lh.googleusercontent.com/KM6fMtzUqgFv6PpoPTTu2qCaOzx4ygvf7bKZvvf_f-Wi7RDwDn3Fj11ZyOm2vShejDKqSA=w240-h480"
+        },
+        {
+            "id": 18,
+            "title": "Alice in Wonderland",
+            "description": "19-year-old Alice returns to the whimsical world of her youth.",
+            "year": "2010",
+            "poster": "https://play-lh.googleusercontent.com/proxy/k7ubqAt1OYZV0ufFXWOs9IzO3w2HsZmkXfhYUsQgDUS2Ws9nbPqkge4apNu4JY_4oKWPeRMe_xL7EYxjNF0-MolCbln3O8VPOqa9eCVhSPd3w5-3swVOWPjSLdOBaw3ORPp6f8QNJgbiPo82YNsRsbEK3frguj7ySfLBRQ=w240-h480"
+        },
+        {
+            "id": 19,
+            "title": "Alice Through the Looking Glass",
+            "description": "Alice (Mia Wasikowska) has spent the past few years following in her father’s footsteps and sailing the high seas. Upon her return to London, she comes across a magical looking glass and returns to the fantastical realm of Underland and her friends. There she discovers that the Mad Hatter (Johnny Depp) has lost his Muchness, so the White Queen (Anne Hathaway) sends her on a quest to borrow the Chronosphere, a metallic globe inside the chamber of the Grand Clock that powers all time. Returning to the past, she embarks on a perilous race to save the Hatter before time runs out.",
+            "year": "2016",
+            "poster": "https://play-lh.googleusercontent.com/wcAhllHqyFEOolHiUc_bTJfGV26LvMIjI4M9oLXGtAUGpiYyfRQe2BSuK3ZM2ElBezv9=w240-h480"
+        },
+        {
+            "id": 20,
+            "title": "Arrival",
+            "description": "When mysterious spacecraft touch down across the globe, an elite team – led by expert linguist Louise Banks (Amy Adams) – are brought together to investigate. As mankind teeters on the verge of global war, Banks and the team race against time for answers – and to find them, she will take a chance that could threaten her life, and quite possibly humanity.",
+            "year": "2016",
+            "poster": "https://play-lh.googleusercontent.com/LhyPWjjDEP1OVV1lENmvrKd0tfogEiIVksnTzq9mkMnWEODgcrqqgWVLqXD36V4gCg48=w240-h480"
+        },
+        {
+            "id": 21,
+            "title": "The Nice Guys",
+            "description": "Private eye Holland March and muscle-for-hire Jackson Healy are plunged into a life-or-death mystery when the missing persons case they’re both following leads them to a conspiracy involving people at the highest levels.",
+            "year": "2016",
+            "poster": "https://play-lh.googleusercontent.com/proxy/fTan9kfTSUVManbNM62WnSRQ3yrnhBNILatA8u18gPvK3ccl0WECou9nVCauWAByK7CELkJP0tMzY-KoFNT-uziNGa-DAv5vvmt2IIMuyG8iLPqHPnvM-5FiOExrrwnpzqxQO8wlWmV4ERT3eKeyGcVwVQZdGNB6xumROw=w240-h480"
+        },
+        {
+            "id": 22,
+            "title": "The Kitchen",
+            "description": "Based on the Vertigo comic book series from DC Entertainment, the film stars Oscar nominee Melissa McCarthy, Tiffany Haddish and Elisabeth Moss as three 1978 Hell’s Kitchen housewives whose mobster husbands are sent to prison by the FBI. Left with little but a sharp ax to grind, the ladies take the Irish mafia’s matters into their own hands—proving unexpectedly adept at everything from running the rackets to taking out the competition…literally.",
+            "year": "2019",
+            "poster": "https://play-lh.googleusercontent.com/eJoob3y2MVPLDgaxe37ulE_EDDEmMMH_ukMBvDYol1R_wHB4xuVU5ls4XhvXNtvbX2vVVm786LcxHunRPIU=w240-h480"
+        }
+    ]
+}

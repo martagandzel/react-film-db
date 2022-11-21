@@ -1,10 +1,10 @@
-
+import './Button.css'
 function Button(props) {
 
     return (
         <button
             className={props.className}
-            onClick={props.function}
+            onClick={props.handleOnClick}
         >
             {props.text}
         </button>

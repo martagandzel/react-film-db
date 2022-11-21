@@ -1,3 +1,4 @@
+import './WelcomeMessage.css'
 
 function WelcomeMessage() {
 

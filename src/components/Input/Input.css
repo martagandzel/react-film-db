@@ -1,0 +1,23 @@
+label {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+}
+
+label span {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: .80rem;
+    margin-top: 1rem;
+    padding: 1rem 1rem 1rem 0;
+}
+
+.submit-input {
+    display: inline-block;
+    font-family: inherit;
+    border: 2px solid transparent;
+    outline: 1px solid var(--border-color);
+    padding: .5rem;
+    color: var(--main-font-color);
+    background-color: var(--background-color);
+}

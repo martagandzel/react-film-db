@@ -1,0 +1,48 @@
+section.film-view {
+    margin: 5rem 2rem;
+}
+
+ul.film-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+li.film-item {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 1rem 2rem 1rem 1rem;
+}
+
+div.film-details {
+    display: grid;
+    align-items: start;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: .5fr 5fr;
+}
+
+div.film-details img {
+    height: 14rem;
+    margin-right: 1rem;
+    grid-row: span 2;
+}
+
+li p.film-item-description {
+    margin-left: 1rem;
+    font-size: .85rem;
+    text-align: justify;
+    color: var(--main-font-color);
+    display: -webkit-box;
+    -webkit-line-clamp: 7;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+li p.film-item-title {
+    font-size: 1.25rem;
+    color: var(--headings-color);
+}
+
+li span.film-item-year {
+    font-size: 1rem;
+}

@@ -1,0 +1,22 @@
+button {
+    height: 2rem;
+    color: var(--border-color);
+    background-color: var(--background-color);
+    border: solid 1px var(--border-color);
+    cursor: pointer;
+    padding: .5rem;
+}
+
+.remove-button {
+    width: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1rem 1rem 1rem;
+    border-radius: 50%;
+}
+
+.sumbitNewFilm {
+    margin-top: 2rem;
+    align-self: center;
+}

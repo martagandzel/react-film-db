@@ -2,6 +2,6 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #F8F0E3;
+  background-color: var(--background-color);
   font-family: 'Noto Sans', sans-serif;
 }

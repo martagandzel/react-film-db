@@ -7,7 +7,7 @@ function Input(props) {
             <span>{props.placeholder}</span>
             <input
                 className={props.className}
-                type={props.type}
+                type={props.type ? props.type : "text"}
                 placeholder={props.placeholder}
                 id={props.id}
                 value={props.value}

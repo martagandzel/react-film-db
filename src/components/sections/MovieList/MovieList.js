@@ -1,5 +1,5 @@
 import './MovieList.css'
-import Button from '../Button/Button'
+import Button from 'components/atoms/Button/Button'
 
 
 function MovieList(props) {

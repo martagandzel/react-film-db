@@ -1,6 +1,6 @@
 button {
     height: 2rem;
-    color: var(--border-color);
+    color: var(--headings-color);
     background-color: var(--background-color);
     border: solid 1px var(--border-color);
     cursor: pointer;
@@ -16,7 +16,8 @@ button {
     border-radius: 50%;
 }
 
-.sumbitNewFilm {
+.sumbitNewFilm,
+.sumbitNewUser {
     margin-top: 2rem;
     align-self: center;
 }

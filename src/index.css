@@ -1,7 +1,24 @@
+:root {
+  --background-color: #f8f0e3;
+  --border-color: #cd9436;
+  --main-font-color: #292929;
+  --headings-color: #a37122;
+}
+
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: var(--background-color);
   font-family: 'Noto Sans', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: var(--headings-color);
+  font-weight: 400;
+  margin-top: 3rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
 }

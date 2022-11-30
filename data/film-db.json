@@ -251,6 +251,92 @@
       "year": "2019",
       "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Terminator_Dark_Fate_poster.jpg/220px-Terminator_Dark_Fate_poster.jpg",
       "description": "Decades after Sarah Connor (Linda Hamilton) prevented Judgment Day, a lethal new Terminator is sent to eliminate the future leader of the resistance. In a fight to save mankind, battle-hardened Sarah Connor teams up with an unexpected ally (Arnold Schwarzenegger) and an enhanced super soldier to stop the deadliest Terminator yet. Humanity’s fate hangs in the balance in this action-packed thrill ride from Tim Miller, the Director of Deadpool, and Producer James Cameron."
+    },
+    {
+      "id": "10184c4c-1211-46a8-9fb0-f4ab45bcfa7c",
+      "title": "Proof",
+      "year": "2005",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Proof_poster.jpg/220px-Proof_poster.jpg",
+      "description": "The plot alternates between events immediately following the death of Robert, a brilliant mathematician at the University of Chicago whose genius was undone by crippling mental illness, and flashbacks revealing the life he shared with his daughter Catherine. Catherine is also a mathematician and was once a promising student at Northwestern University, but she struggles with living in her father’s shadow and balancing her demanding studies with caring for her father, as well as the fear that she may have inherited his mental illness. At home, Robert clings to sanity by constantly bombarding Catherine with complex mathematical problems."
+    },
+    {
+      "id": "6c214812-372b-4165-92fd-673fcf39fbd0",
+      "title": "My Blueberry Nights",
+      "year": "2007",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/My_Blueberry_Nights_poster.jpg",
+      "description": "Jeremy, an émigré from Manchester, owns a small New York City café. It becomes a haven for Elizabeth, as he provides her with clues which soon reveal that her boyfriend is cheating on her. Devastated, she leaves, but returns for solace and to share stories. Jeremy explains his bowl of keys, and the story behind each, while she gluttonously eats his blueberry pie until she falls asleep. He tries to steal a kiss while Elizabeth sleeps, and she pretends to continue sleeping. But after the kiss she subtly smiles, but he doesn’t see it. Elizabeth leaves Jeremy’s café and he puts the key to her and her ex’s in the key bowl."
+    },
+    {
+      "id": "e55a6108-2d40-4713-933c-3b72b50f011f",
+      "title": "Music and Lyrics",
+      "year": "2007",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Music_and_lyrics.jpg/220px-Music_and_lyrics.jpg",
+      "description": "Alex Fletcher is a washed-up former pop star (from the British group ‘PoP!’) who seems happy in his “has-been” status, performing for 80s-loving fans at reunions and random locations, when his manager tells him Cora Corman, a young megastar, wants him to write a song for her, titled “A Way Back Into Love”. Alex is reluctant to compose again after two decades, because his strength was always the tune, his ex-partner Colin always wrote the words. However, his caring but professional manager tells him that his music career is completely doomed if he doesn’t switch gears—interest in his nostalgia concerts is dwindling."
+    },
+    {
+      "id": "4835bab1-6594-453a-87ac-352be87b6565",
+      "title": "Red Dragon",
+      "year": "2002",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Red_Dragon_movie.jpg/220px-Red_Dragon_movie.jpg",
+      "description": "In 1980, FBI agent Will Graham visits forensic psychiatrist Hannibal Lecter to discuss a case. Graham has been working with Lecter on a psychological profile of a serial killer who removes edible body parts from his victims; Graham says he has realized the killer is a cannibal. Realizing Graham is close to discovering he is the killer, Lecter stabs him, but Graham fights back, stabbing and shooting Lecter before they both fall unconscious. Lecter is imprisoned in an institution for the criminally insane, and Graham, traumatized, retires to Florida with his family."
+    },
+    {
+      "id": "f832904e-8daf-445a-be31-6c45a355518e",
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg",
+      "description": "In 1990, Clarice Starling is pulled from her FBI training at the Quantico, Virginia FBI Academy by Jack Crawford of the Bureau’s Behavioral Science Unit. He assigns her to interview Hannibal Lecter, a former psychiatrist and incarcerated cannibalistic serial killer. Crawford believes Lecter’s insight could prove useful in the pursuit of a psychopath serial killer nicknamed “Buffalo Bill”, who kills young women and removes their skin from their bodies."
+    },
+    {
+      "id": "6498c035-de1d-4d34-a8d0-088aabd6d1f9",
+      "title": "Hannibal",
+      "year": "2001",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Hannibal_movie_poster.jpg/220px-Hannibal_movie_poster.jpg",
+      "description": "A decade after tracking down serial killer Jame Gumb, FBI Special Agent Clarice Starling is blamed for a botched drug raid which resulted in the deaths of six people. Starling is contacted by Mason Verger, the only surviving victim of the cannibalistic serial killer Hannibal Lecter, who has been missing since escaping custody during the Gumb investigation. A wealthy child molester, Verger was paralyzed and disfigured by Lecter during a therapy session. He has been pursuing an elaborate scheme to capture, torture, and kill Lecter ever since. Using his wealth and political influence, Verger has Starling reassigned to Lecter’s case, hoping her involvement will draw Lecter out."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "someone@gmail.com",
+      "password": "987654321",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669745314521,
+      "email": "someone@gmail.com",
+      "password": "987654321",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669745353198,
+      "email": "harrypotter@op.pl",
+      "password": "harrypotter",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669824576452,
+      "email": "guardian@gmail.com",
+      "password": "toothfairy",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669826015118,
+      "email": "mycat@dog.com",
+      "password": "catsanddogs",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1669834298279,
+      "email": "winniethepooh@disney.com",
+      "password": "redtshirt",
+      "name": "",
+      "avatar": ""
     }
   ]
 }

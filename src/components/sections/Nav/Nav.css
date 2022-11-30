@@ -1,0 +1,38 @@
+ul.mainNav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--headings-color);
+}
+
+.mainNav li {
+    font-size: 1.5rem;
+    margin-right: 3rem;
+}
+
+.mainNav li:hover {
+    text-decoration: overline;
+    text-decoration-color: var(--headings-color);
+    text-decoration-thickness: 2px;
+}
+
+.mainNav li a,
+.footerNav li a {
+    color: var(--headings-color);
+    text-decoration: none;
+}
+
+ul.footerNav {
+    list-style: none;
+}
+
+.footerNav li {
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.footerNav li:hover {
+    font-weight: 500;
+}

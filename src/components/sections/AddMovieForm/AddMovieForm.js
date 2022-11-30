@@ -1,6 +1,6 @@
 import './AddMovieForm.css'
-import Input from "../Input/Input"
-import Button from "../Button/Button"
+import Input from "components/atoms/Input/Input"
+import Button from "components/atoms/Button/Button"
 
 function AddMovieForm(props) {
 
@@ -8,7 +8,7 @@ function AddMovieForm(props) {
     return (
         <>
 
-            <h2>Add your favourite films</h2>
+            <h2>Add your favourite film</h2>
 
             <form
                 onSubmit={props.handleSubmit}
@@ -16,7 +16,6 @@ function AddMovieForm(props) {
             >
                 <Input
                     className="submit-input"
-                    type="text"
                     placeholder="title"
                     id="title"
                     value={props.titleInput}
@@ -24,7 +23,6 @@ function AddMovieForm(props) {
                 />
                 <Input
                     className="submit-input"
-                    type="text"
                     placeholder="year"
                     id="year"
                     value={props.yearInput}

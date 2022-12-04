@@ -29,3 +29,13 @@ export const loginUser = email => {
     return fetch(`${URLUsers}?email=${email}`)
         .then(res => res.json())
 }
+
+export const addNewUser = (newUser) => {
+    return fetch('http://localhost:5000/users', {
+        method: 'POST',
+        headers: {
+            'Content-type': 'application/json'
+        },
+        body: JSON.stringify(newUser)
+    })
+}

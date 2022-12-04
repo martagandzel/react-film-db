@@ -15,7 +15,7 @@ const routes = createBrowserRouter([
     element: <HomePage />
   },
   {
-    path: '/addnewfilm',
+    path: '/add',
     element: <AddFilmPage />
   },
   {

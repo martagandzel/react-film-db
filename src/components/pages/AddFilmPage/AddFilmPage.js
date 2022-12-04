@@ -1,10 +1,10 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { v4 as uuidv4 } from 'uuid'
 
 import SubPageTemplate from "components/templates/SubPageTemplate/SubPageTemplate";
 import AddMovieForm from "components/sections/AddMovieForm/AddMovieForm";
-import { uploadFilms, addNewFilm } from 'utils/http'
+import { addNewFilm } from 'utils/http'
 
 const AddFilmPage = () => {
 
@@ -15,12 +15,6 @@ const AddFilmPage = () => {
     const [descriptionInput, setDescriptionInput] = useState('')
 
     const navigate = useNavigate()
-
-    useEffect(() => {
-        uploadFilms()
-            .then(data => setFilms(data))
-            .catch(err => console.log(err))
-    }, [])
 
     const readTitleInput = event => {
         setTitleInput(event.target.value)

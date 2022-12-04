@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from 'react-router-dom'
 
+import { addNewUser } from "utils/http";
 import Input from "components/atoms/Input/Input";
 import Button from "components/atoms/Button/Button";
 import SubPageTemplate from "components/templates/SubPageTemplate/SubPageTemplate";
@@ -32,13 +33,7 @@ const RegisterPage = () => {
             avatar: ""
         }
 
-        fetch('http://localhost:5000/users', {
-            method: 'POST',
-            headers: {
-                'Content-type': 'application/json'
-            },
-            body: JSON.stringify(newUser)
-        })
+        addNewUser(newUser)
             .then(navigate('/'))
     }
 

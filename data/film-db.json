@@ -293,6 +293,27 @@
       "year": "2001",
       "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Hannibal_movie_poster.jpg/220px-Hannibal_movie_poster.jpg",
       "description": "A decade after tracking down serial killer Jame Gumb, FBI Special Agent Clarice Starling is blamed for a botched drug raid which resulted in the deaths of six people. Starling is contacted by Mason Verger, the only surviving victim of the cannibalistic serial killer Hannibal Lecter, who has been missing since escaping custody during the Gumb investigation. A wealthy child molester, Verger was paralyzed and disfigured by Lecter during a therapy session. He has been pursuing an elaborate scheme to capture, torture, and kill Lecter ever since. Using his wealth and political influence, Verger has Starling reassigned to Lecter’s case, hoping her involvement will draw Lecter out."
+    },
+    {
+      "id": "81e35a99-30f3-438e-a53e-15d32a9a0a33",
+      "title": "The Raven",
+      "year": "2012",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/The_Raven_Poster.jpg/220px-The_Raven_Poster.jpg",
+      "description": "In 19th-century Baltimore, Maryland, several policemen discover a murdered woman sprawled on the floor of her apartment, which was locked from the inside. While police search for the killer’s means of escape, they discover a second corpse in the chimney, later identified as the 12-year-old daughter of the first victim. A celebrated detective, Emmett Fields, is called to assist in the investigation and discovers that the crime resembles a fictional murder in a short story, “The Murders in the Rue Morgue”, that he once read."
+    },
+    {
+      "id": "e823dfde-30c3-48dc-869e-e222847095fa",
+      "title": "The Woman in White",
+      "year": "2018",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/The_Woman_in_White_%282018_TV_series%29.jpg/250px-The_Woman_in_White_%282018_TV_series%29.jpg",
+      "description": "Walter Hartright receives a letter from Frederick Fairlie requesting that he restore his art collection and tutor his nieces at Limmeridge House in Cumberland. Before he leaves for Cumberland, he meets a woman dressed in white, who tells him she used to live at Limmeridge. Shortly afterwards the woman rushes away and boards a coach. Some time later Walter overhears a conversation between a policeman and a coach passenger suggesting that the woman is deranged and has escaped from an asylum."
+    },
+    {
+      "id": "5995289a-00f7-47df-966c-bd281b3233d0",
+      "title": "The Girl Before",
+      "year": "2021",
+      "poster": "https://fr.web.img6.acsta.net/r_1280_720/pictures/22/01/25/09/48/2669680.jpg",
+      "description": "A traumatised woman falls in love with an extraordinary minimalist house, which remains under the spell of the architect who originally designed it, but not everything may be as it seems."
     }
   ],
   "users": [
@@ -335,6 +356,13 @@
       "id": 1669834298279,
       "email": "winniethepooh@disney.com",
       "password": "redtshirt",
+      "name": "",
+      "avatar": ""
+    },
+    {
+      "id": 1670176029174,
+      "email": "myemail@gmail.com",
+      "password": "myPassword",
       "name": "",
       "avatar": ""
     }

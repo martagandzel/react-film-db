@@ -12,7 +12,7 @@ const Nav = (props) => {
 
             </li>
             <li>
-                <Link to='/addnewfilm'>
+                <Link to='/add'>
                     Add new film
                 </Link>
 
